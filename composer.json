@@ -1,0 +1,16 @@
+{
+    "name": "james/uploader",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "James\\Uploader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}
